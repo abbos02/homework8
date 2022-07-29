@@ -241,16 +241,16 @@ header{
 }
 .item2{
     display: flex;
-    margin: 0 auto;
+   
     justify-content: space-between;
 
 }
 .card3{
 
     border: 2px solid silver;
+    width: 45%;
     border-radius: 8px;
     margin-top: 24px;
-    margin-left:  ;
     padding: 30px;
     -webkit-border-radius: 8px;
     -moz-border-radius: 8px;
